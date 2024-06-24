@@ -1,0 +1,52 @@
+.top {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background: rgba(151, 230, 151, 0.3);
+    padding: 10px;
+}
+.wrap{
+    color: rgba(121, 24, 4, 0.815);
+}
+.bam {
+    color: rgb(73, 50, 15);
+}
+ul li{
+    display: inline-block;
+}
+
+ul{
+    background: rgb(131, 202, 163)
+}
+
+li{
+    padding: 10px;
+}
+
+body{
+    background: rgb(149, 210, 218);
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.relog {
+    color: darkblue;;
+}
+.ph1 {
+    width: 400px;
+}
+h1{font-size: 24px;}
+h2{font-size: 20px;}
+h3{font-size: 18px;}
+
+p {
+    color: darkgreen;
+}
+.pogoda {
+    margin-left:1800px ;
+    position: absolute;
+}
+.pogoda img {
+    width: 300px;
+}

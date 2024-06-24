@@ -1,0 +1,25 @@
+.wraper {
+    width: 60%;
+    margin: 0 auto;
+}
+.mm
+{
+    border: 1px solid black;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    margin: 20px;
+}
+.f1 {
+    float: left;
+    margin: 0 1em 1em 0;
+    font-family: Arial;
+    word-spacing: 20px;
+}
+.wr {
+    line-height: 30px;
+}
+li {
+    text-align: right;
+    padding-right: 30px;
+    list-style: none;
+}
