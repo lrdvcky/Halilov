@@ -1,0 +1,95 @@
+.wraper {
+    margin: 0 auto;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-color: blue;
+    height: 80px;
+    width: 500px;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.em {
+    padding-top:4px;
+    font-size: 50px;
+}
+main {
+    height: 890px;
+    width: 500px;
+    background-color: lightgray;
+    margin: 0 auto;
+    justify-content: center;
+}
+.an {
+    display: ruby;
+    font-size: 26px;
+    padding-left: 10px;
+}
+.an2 {
+    padding-left: 210px;
+    color: blue;
+}
+.an3 {
+    padding-left: 160px;
+    color: blue;
+}
+.an4 {
+    padding-left: 200px;
+    color: blue;
+}
+.an5 {
+    padding-left: 240px;
+    color: blue;
+}
+.an6 {
+    padding-left: 130px;
+    color: blue;
+}
+.an7 {
+    padding-left: 168px;
+    color: blue;
+}
+.nn p {
+    line-height: 0.7;
+}
+.nn2 {
+    padding-left: 10px;
+}
+.bord {
+    width: 490px;
+    border-top: 3px solid gray
+}
+.nn {
+    border-left: 12px solid lightgreen;
+}
+.nn01 {
+    border-left: 12px solid lightblue;
+}
+.nn02 {
+    border-left: 12px solid pink;
+}
+
+.nn03 {
+    border-left: 12px solid yellow;
+}
+
+.nn04 {
+    border-left: 12px solid aquamarine;
+}
+
+.nn05 {
+    border-left: 12px solid lightcoral;
+    height: 50px;
+}
+h3 {
+    padding-left: 180px;
+}
+.kar {
+    padding-right:20px ;
+}

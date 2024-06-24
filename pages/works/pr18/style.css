@@ -1,0 +1,30 @@
+header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: gray;
+}
+main {
+	display: flex;
+	gap: 15px;
+	justify-content: center;
+}
+article {
+	width: 300px;
+	height: 400px;
+	background-color: white;
+}
+body {
+	background-color: lightgray;
+}
+article img {
+	width: 50px;
+	margin-top:20px;
+	margin-left:15px ;
+}
+.fl1 {
+	display: flex;
+}
+.fl1 img {
+	width: 70px;
+	height: 100px;
+}
