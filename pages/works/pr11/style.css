@@ -1,0 +1,38 @@
+section{
+    display:flex;
+    flex-wrap: wrap;
+    background-color:lightslategray;
+    justify-content: center;
+}
+article{
+    width: 467.6px;
+    padding: 52.31px 0 24.94px 77.3px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    background-color: white;
+}
+i{
+    color: red;
+}
+article :nth-child(1){
+    width: 400px;
+    height: 500px;
+}
+article:nth-child(2n-1) {
+    margin: 40px;
+}
+article:nth-child(1n-1) {
+    margin: 40px;
+}
+article:nth-child(3n-1) {
+    margin: 40px;
+}
+button{
+    width: 100px;
+    height: 70px;
+    border-radius: 5px;
+}
+article:nth-child(3) button{
+    background-color: green;
+    color: white;
+}

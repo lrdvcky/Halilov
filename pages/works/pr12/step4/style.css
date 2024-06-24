@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1, p{
+    margin-bottom: 20px;
+}
+main{
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3%;
+}
+.content{
+    width: 60%;
+    background: rgb(231, 153, 255);
+    padding: 2%;
+}
+aside{
+    width: 30%;
+}
+.side-block{
+    background: rgb(231, 153, 255);
+    padding: 5%;
+    margin-bottom: 20px;
+}
+@media screen and (max-wigth: 800px) {
+    .content{
+        width: 100%;
+    }
+    aside{
+        width: 56%;
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .side-block{
+        width: 44%;
+        padding: 2%;
+    }
+}
+@media screen and (max-wigth: 480px) {
+    .side-block{
+        width: 96%;
+        padding: 4%;
+    }
+}
